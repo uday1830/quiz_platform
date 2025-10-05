@@ -45,7 +45,7 @@ The Admin can login to the system can see the results of the tests and can add m
 ### Step 2: Setup Database
 1. Open phpMyAdmin: [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
 2. Click on "Import" tab
-3. Choose the file: `database/setup.sql`
+3. Choose the file: `database/quiz_platform.sql`
 4. Click "Go" to execute the SQL script
 
 This will create:
